@@ -1,0 +1,5 @@
+#!name=All Capture
+#!desc=Capture the request body and save permanently.
+
+[MITM]
+hostname = *

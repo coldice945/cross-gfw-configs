@@ -1,3 +1,6 @@
+# > TestFlight
+DOMAIN,testflight.apple.com
+
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
@@ -7,18 +10,19 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
-# > Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# > Riot Games
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,riotgames.com
 
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
+
+# > Tesla
+DOMAIN-KEYWORD,tesla
 
 # > Zooba
 USER-AGENT,battleroyale*
@@ -55,6 +59,7 @@ DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
@@ -124,6 +129,7 @@ DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cl.ly
+DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudgarage.jp
@@ -226,7 +232,7 @@ DOMAIN-SUFFIX,gunsamerica.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -242,6 +248,7 @@ DOMAIN-SUFFIX,img.ly
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,ingress.com
+DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,instructables.com
@@ -286,6 +293,7 @@ DOMAIN-SUFFIX,logmein.com
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,mangaup.jp
 DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
@@ -311,7 +319,9 @@ DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,notion.so
@@ -437,6 +447,7 @@ DOMAIN-SUFFIX,talkboxapp.com
 DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
+DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
@@ -463,6 +474,7 @@ DOMAIN-SUFFIX,torcn.com
 DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrentz.eu
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
@@ -636,8 +648,8 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gosetsuden.jp
-DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gwtproject.org
+DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,keyhole.com
